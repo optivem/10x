@@ -1,7 +1,5 @@
 # Challenges
 
-
-
 Are you a leader in an enterprise software development organization, interested in producing quality software? Have you experienced the challenges in managing software projects - satisfying customers' needs to produce software faster, but yet at the same time, facing quality issues?
 
 Have you seen systems which rapidly deteriorated in quality, whereby the architecture is a "big ball of mud", and low code quality - and the decreased productivity of the whole team? Is there an increasing pile of bugs, and are changes taking longer and longer to implement, breaking existing functionality? Do you face challenges in incorporating new team members, increasing the technical level of your team, and incorporating code standards and quality control?
@@ -46,13 +44,9 @@ What are the causes of issues faced by software development companies? The root 
 
 There are plenty of articles written on the topics of people issues and process issues - including the increased focus on leadership, motivation, culture as well as using Agile processes.
 
-However, 
-
-
+However,
 
 ## Background
-
-
 
 Are you looking for a solution which will enable you to:
 
@@ -62,12 +56,6 @@ Are you looking for a solution which will enable you to:
 
 If you've answered "yes", then you've come to the right place. We're here to support you in quality Enterprise Application Software \(EAS\) development.
 
-
-
-
-
-
-
 Welcome to the Optivem Framework! The Optivem Framework was created to help you increase code quality, help you deliver products faster to customers and reduce your overall software development cost. This documentation page will show you how to get up-and-running with the Optivem Framework in your .NET Core 2.2 software projects.
 
 The Optivem Framework is designed to support the Clean Architecture, enabling:
@@ -76,14 +64,6 @@ The Optivem Framework is designed to support the Clean Architecture, enabling:
 * Extensibility & flexibility
 * Maintainability & testibility
 * Scalability and portability
-
-
-
-
-
-
-
-
 
 Optivem Framework was created to accelerate the development of enterprise applications, so that you can quickly create new projects for your customers.
 
